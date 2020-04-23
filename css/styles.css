@@ -1,0 +1,24 @@
+.menu {
+  color: green;
+}
+p {
+  color: brown;
+}
+.selected {
+  text-decoration: underline;
+  background-color: black;
+}
+#box {
+  font-style: italic;
+}
+[type='text'] {
+  color: red;
+}
+.mk {
+  text-decoration: none;
+  color: aqua;
+}
+.mk2 {
+  text-decoration: none;
+  color: red;
+}
